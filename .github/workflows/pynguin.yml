@@ -1,4 +1,4 @@
-name: Python CI with pytest
+name: Python CI with pynguin
 
 on:
   push:
